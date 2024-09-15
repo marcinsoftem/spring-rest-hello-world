@@ -1,4 +1,4 @@
-package pl.softem.springresthelloworld.controller;
+package pl.softem.simplelist.controller;
 
 import com.google.gson.Gson;
 import org.springframework.http.HttpStatus;
@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @CrossOrigin(origins = "*")
-public class HelloWorldController {
+public class SimpleListController {
 
     private List<String> elements = new ArrayList<>(Arrays.asList("Mleko", "Korba", "Pies"));
 

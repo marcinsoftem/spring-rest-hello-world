@@ -1,10 +1,10 @@
-package pl.softem.springresthelloworld;
+package pl.softem.simplelist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringRestHelloWorldApplicationTests {
+class SimpleListApplicationTests {
 
     @Test
     void contextLoads() {

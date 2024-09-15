@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pl.softem</groupId>
-    <artifactId>spring-rest-hello-world</artifactId>
+    <artifactId>backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-rest-hello-world</name>
-    <description>spring-rest-hello-world</description>
+    <name>simple-list</name>
+    <description>simple-list</description>
     <url/>
     <licenses>
         <license/>

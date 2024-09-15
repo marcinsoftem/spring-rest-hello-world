@@ -1,13 +1,13 @@
-package pl.softem.springresthelloworld;
+package pl.softem.simplelist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRestHelloWorldApplication {
+public class SimpleListApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringRestHelloWorldApplication.class, args);
+        SpringApplication.run(SimpleListApplication.class, args);
     }
 
 }
